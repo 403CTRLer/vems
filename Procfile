@@ -1,1 +1,1 @@
-worker: vems.py
+worker: python vems.py
